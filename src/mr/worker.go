@@ -28,6 +28,7 @@ func Worker(mapf func(string, string) []KeyValue,
 	// uncomment to send the Example RPC to the coordinator.
 	// CallExample()
 	fmt.Printf("test\n")
+	fmt.Printf("test again\n")
 
 }
 
